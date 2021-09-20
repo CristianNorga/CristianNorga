@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**CristianNorga/CristianNorga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola 👋, Mi nombre es Cristian David Noreña Saldarriaga
+#### Developer and dreamer
+![Developer and dreamer](https://github.com/CristianNorga/CristianNorga/blob/main/DCIM-100GOPRO-GOPR1355.%20-4000x3000-115021072.JPEG)
 
-Here are some ideas to get you started:
+Habilidades: REACTJS / JS / HTML / CSS / PYTHON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en un proyecto personal 
+- 🌱 Estoy aprendiendo a usar ValueJs, NodeJs 
+- 😄 Pronombres: Nore 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianNorga&show_icons=true&theme=radical)
+)](https://github.com/anuraghazra/github-readme-stats)
