@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hola 👋, Mi nombre es Cristian David Noreña Saldarriaga
 #### Developer and dreamer
 ![Developer and dreamer](https://github.com/CristianNorga/CristianNorga/blob/main/DCIM-100GOPRO-GOPR1355.%20-4000x3000-115021072.JPEG)
