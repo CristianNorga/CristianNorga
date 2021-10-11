@@ -1,6 +1,16 @@
-### Hola 👋, Mi nombre es Cristian David Noreña Saldarriaga
-#### Developer and dreamer
+
+# Hola 👋, Mi nombre es Cristian David Noreña Saldarriaga
+
 ![Developer and dreamer](https://github.com/CristianNorga/CristianNorga/blob/main/portadaHDV.png)
+#### Developer Junior
+
+## Conocimientos `lenguajes`, `Preprocesadores`
+
+   Etiquetas  | Estilos
+------------- | -------------  
+Lenguajes     |
+Etiquetas     | Content Cell
+Content Cell  | Content Cell 
 
 Habilidades: REACTJS / JS / HTML / CSS / PYTHON
 
